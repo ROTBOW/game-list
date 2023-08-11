@@ -1,0 +1,28 @@
+.gi {
+    width: fit-content;
+    border: 2px solid black;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.1rem 0.3rem 0.1rem 0.3rem;
+    margin: 0.15rem 0 0.15rem 0;
+}
+
+.current {
+    border-color: #00ff00;
+    font-size: x-large;
+}
+
+.dropped {
+    border-color: red;
+}
+
+.planned {
+    border-color: #da00ff;
+}
+
+.complete {
+    border-color: #02f4f8;
+}
+

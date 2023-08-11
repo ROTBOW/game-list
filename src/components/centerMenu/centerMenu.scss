@@ -1,0 +1,24 @@
+.center-menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    min-width: 700px;
+    margin: auto;
+    margin-top: 4rem;
+
+    .cm-topbox {
+        display: flex;
+        justify-content: space-evenly;
+        .cm-middle {
+            margin: 0 0.3rem 0 0.3rem 0;
+        }
+    }
+
+    .cm-bottombox {
+        margin-top: 1rem;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
