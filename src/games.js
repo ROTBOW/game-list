@@ -34,7 +34,8 @@ const games = {
     'Monster Hunter World': PLANNED,
     'Skyward Sword(?)': PLANNED,
     'Spirit tracks': PLANNED,
-    'Far cry 55': PLANNED
+    'Far cry 55': PLANNED,
+    'Baldur\'s Gate 3': PLANNED,
 };
 
 export default games;
